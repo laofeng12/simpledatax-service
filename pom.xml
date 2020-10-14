@@ -85,7 +85,7 @@
 		<jedis.version>2.8.2</jedis.version>
 
 		<jsp-api.version>2.2</jsp-api.version>
-		<junit.version>4.12</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<servlet-api.version>3.0.1</servlet-api.version>
 		<jboss-websocket-api_1.0_spec.version>1.0.0.Final</jboss-websocket-api_1.0_spec.version>
 		<aspectjrt.version>1.6.11</aspectjrt.version>
