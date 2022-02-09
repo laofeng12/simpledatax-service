@@ -74,7 +74,7 @@
 
 		<pagehelper.version>4.2.1</pagehelper.version>
 		<curator.version>2.10.0</curator.version>
-		<shiro.version>1.4.0</shiro.version>
+		<shiro.version>1.7.1</shiro.version>
 		<freemarker.version>2.3.22</freemarker.version>
 		<!-- plugins settings -->
 		<olap4j.version>1.2.0</olap4j.version>
