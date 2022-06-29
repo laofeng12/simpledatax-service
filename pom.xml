@@ -41,7 +41,7 @@
 
 		<guava.version>16.0.1</guava.version>
 		<dubbo.version>2.6.2</dubbo.version>
-		<zookeeper.version>3.4.8</zookeeper.version>
+		<zookeeper.version>3.4.14</zookeeper.version>
 		<args4j.version>2.32</args4j.version>
 		<elasticjob.version>2.1.5</elasticjob.version>
 
